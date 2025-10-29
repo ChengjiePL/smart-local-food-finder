@@ -18,7 +18,7 @@ Personal motivation: I want to help people eat healthier, support local business
 
 ## Data sources and AI methods
 
-* **Data sources:** Public APIs for locations (Google Maps, OpenStreetMap), user reviews (Yelp, TripAdvisor), and possibly CSV datasets of farmers’ markets.
+* **Data sources:** Public APIs for locations (Google Maps, OpenStreetMap), user reviews (Yelp, TripAdvisor), and CSV datasets of farmers’ markets.
 * **AI methods:**
   * Recommendation system: Collaborative filtering using user ratings
   * Content-based filtering: TF-IDF or embeddings to match food categories and dietary preferences
