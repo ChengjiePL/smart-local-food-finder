@@ -1,6 +1,4 @@
-# Project Title
-
-Smart Local Food Finder – Building AI course project
+# Smart Local Food Finder – Building AI course project
 
 ## Summary
 
